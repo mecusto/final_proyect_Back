@@ -1,2 +1,2 @@
-# final_proyect_Back
-Backend developed with NodeJs, MySQL database
+# Final_proyect_Back
+Backend developed with NodeJs, with a MySQL database
