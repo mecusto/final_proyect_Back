@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatreactredux-cb5d0",
+  "private_key_id": "8ebd8e31d9925e5dcbb13150603fdd1e56f159b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJxCQAqn1ub9st\n4x45JtP4S0tRDJrTcfJx4OSDQ48Bt1xkDQeu20YBlyq6j1labA3fsBWz02n7FSfu\n7LB3tPHHRzIXaOy13IAumzV9P6h3z4wOsxqKPLLOSPpAGFe+XLL/0Cnxzf1N2JlG\n/D3qEhE+1IlsB3gLdcwuOiJSIBkDXmRyZUx5zf5ajrT9PRZvQtMZcHyLxUng7J1i\npzfkyubPLsHPpOt6rzc2HI65x23DpmdjVQb65zBc85zFitZeWhDan2uoyjyYdb97\nKnrXgwN7RqRsDz88r49Av5g/l5y45eneih/0lB7+VaOdXeciANunlHZF2fkEQza7\ncjO3mz2NAgMBAAECggEACDQ6TCMI9QcFubJU3EYNgGvii1BT5OnqzcgzNazD99hM\nBwijzO+L9sYxLcmX/IRzdZD9xB4bxRXX72/rjP9ShXCjqZTR0ZZxr9na+iJiG0Ny\nxalxGGxENcpJ3ELt7m04HUBXNEahi7TIjSMpV7pive2ucmVE84WKrXNRSfDI+fxq\n2krZIYYuMCQieOiegAd+fZy07KX06oVEkRfHKK8Un9s2DJHyOGyjGQUSzHu3vghT\nsQiV7MAlLPAqwNIivrZcSCtkl0kK7BsWekoc36+rTfZG18ZAjgcv9W8vX5Jk4Mlx\nNd7CeG4pnk0D6aCM0KVZ86kUxCQWtCjWvGI2ZvTSkQKBgQDzlu6uX5ojOQK449I+\nc9EAyy4kvgT1MaYevg3q/bvmrSrdT3yPiZgc+boXVsMkPPBTVH5l79J+BIF0RANB\nhN+Yh36cY/St3KjbSeH1zn7gV8N+iGcmXIuWhU0OMMtaHaRzqiMdedfPXezo4xR8\n07o02bluU87XzDcMU1TQ+NM7iwKBgQDUC7fEpa53JttuW4WlRfR2IOpovC6yPyqb\nizQ2pb+PzEMdKbKU5Kw+qLtnVBiOELvoRjktybXAOpMU0DgoBRodeJZSqYJrk/Ng\no+R1pTUwqXhjVDgW7WJW+NvntVLxEQDdyvY7gYPHyAsQAxmIApjxaKe6g15lhKNK\nG1LWwlBuRwKBgHg8TxI5VF8AfAyBP7zd9BNdNyihttbErAfOrhYJKp+haGAXJRfA\nxhm/VpDAndAcWE/5i+6LIy5a0P9vtt+3U5r5fpB5ckQDgEHFxUhMpinciD3D3I59\n7dTddXyEr0uLCCqjl3OsOc88wHzv4aP/6pC9y57etWGlhqKJ23rO540jAoGARVIj\nXK1RcPCKEfTnpxVMiwXNvDmxBmKyGjGS+z6Kdocvdaw5DoYHbWCaC3ipomAEHjY+\n4SItQc+kX8yGX0bzt6jBc/qogWTXzsMln/RHhEYS7l4NDCnE2Wv38DMOD3MglmGQ\nx/laTIiwXSa2RQmcWGd/VfE2ffezrjlqhnz18GcCgYEA18tvMqdNgnz++Y5kbK6Y\nqLgvRl9GsU+nhMHJK39eC+LduVELIJuIy4rh+tXJqcBoCDKaZM8VzkU6ZHtx4lC3\nidhwkdXPrYxNnw4UoaA8c4X27VyN3n01BJXOcuV93yO+xzg29sUkXakdJKDxP7/U\nJt4WsfqcpyQkmS0+QvifX3w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jammerdriverservice@chatreactredux-cb5d0.iam.gserviceaccount.com",
+  "client_id": "116057557511639353031",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jammerdriverservice%40chatreactredux-cb5d0.iam.gserviceaccount.com"
+}

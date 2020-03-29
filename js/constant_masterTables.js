@@ -1,0 +1,11 @@
+const ROLE_OWNER = 1;
+const ROLE_PROFFESIONAL = 2;
+const ROLE_TENANT = 3;
+
+const PRIORITY_URGENT = 1;
+const PRIORITY_MEDIUM = 2;
+const PRIORITY_LOW = 3;
+
+const REPORT_STATE_NEW = 1;
+const REPORT_STATE_OPEN = 2;
+const REPORT_STATE_RESOLVED = 3;
